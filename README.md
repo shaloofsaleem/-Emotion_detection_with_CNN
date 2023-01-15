@@ -43,7 +43,7 @@
 ## About The Project
 <br>
 <p align='center'>
-<img src="[https://github.com/Jauharmuhammed/README-Template/blob/main/assets/Mockup-website.png](https://cdn-media-1.freecodecamp.org/images/1*nPhyVOunxSkN76GrR2nECw.png)" width='70%' >
+<img src="https://cdn-media-1.freecodecamp.org/images/1*nPhyVOunxSkN76GrR2nECw.png" width='70%' >
 </p>
 <br>
 
