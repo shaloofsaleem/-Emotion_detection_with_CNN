@@ -3,3 +3,10 @@ Facial emotions are important factors in human communication that help to unders
 
 
 ## - Packages need to be installed
+
+pip install numpy
+pip install opencv-python
+pip install keras
+pip3 install --upgrade tensorflow
+pip install pillow
+
