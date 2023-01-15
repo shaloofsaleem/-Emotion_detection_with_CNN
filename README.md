@@ -21,7 +21,7 @@
 </details>
 
 
-## About The Project
+## Emotion_detection_with_CNN
 <br>
 <p align='center'>
 <img src="https://cdn-media-1.freecodecamp.org/images/1*nPhyVOunxSkN76GrR2nECw.png" width='70%' >
