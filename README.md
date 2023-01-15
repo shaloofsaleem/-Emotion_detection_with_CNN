@@ -1,23 +1,4 @@
 <!-- PROJECT LOGO -->
-<div align="center">
-  <a href="https://github.com/jauharmuhammed/README-template">
-    <img src="https://github.com/Jauharmuhammed/README-Template/blob/main/assets/github-logo.svg" alt="Logo" width="80" height="80" border-radius="50%">
-  </a>
-
-  <h3 align="center">Title</h3>
-
-  <p align="center">
-    Short Discription of the Project
-    <br />
-    <a href="https://github.com/jauharmuhammed/README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://github.com/jauharmuhammed/README-Template">View Site</a>
-    ·
-    <a href="https://github.com/jauharmuhammed/README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/jauharmuhammed/README-Template/issues">Request Feature</a>
-  </p>
-</div>
 
 
 
